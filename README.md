@@ -9,6 +9,16 @@ This repo contains:
 - Download dataset for url from https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset and move to /Url
 - Run python files i.e. email.ipynb and url.ipynb in respective folders
 
+## Download Required Datasets
+
+Before running the models, download the datasets:
+
+- **Email Dataset**: [Phishing Email Dataset on Kaggle](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset)
+  - Extract to: `Email/phishing-email-dataset/`
+
+- **URL Dataset**: [Malicious URLs Dataset on Kaggle](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
+  - Extract to: `Url/`
+
 ## Run Phishing Detection Portal
 
 1. Create a virtualenv and activate:
