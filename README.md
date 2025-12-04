@@ -4,19 +4,6 @@ A comprehensive phishing detection platform that combines machine learning model
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Setup & Installation](#setup--installation)
-- [Running the Application](#running-the-application)
-- [Chrome Extension](#chrome-extension)
-- [Datasets](#datasets)
-- [Model Details](#model-details)
-
----
-
 ## ✨ Features
 
 - **Email Classification**: ML-based detection of phishing emails with high accuracy
